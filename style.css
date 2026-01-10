@@ -1,0 +1,43 @@
+body{
+background-color: rgba(21,29,40, 0.3);
+background-image: url('fog.png');
+background-size: cover;
+background-position: right;
+font-weight: bold;
+font-family: Helvetica;
+text-color: rgb(239,236,229);
+text-align: center;
+}
+h1 {
+background-color: rgba(0, 0, 0, 0.7);
+border-radius: 3px;
+color: rgb(239,236,229);
+}
+h2 {
+background-color: rgba(0, 0, 0, 0.7);
+border-radius: 3px;
+height:40px;
+width:450px;
+padding:10px 0px 0px 0px;
+margin: 0px 0px 0px 700px;
+color: rgb(225,177,86);
+}
+.art {
+height: 720px;
+border:solid gold 1px;
+border-radius:10px
+}
+.social {
+background-color: rgba(0, 0, 0, 0.7);
+border-radius: 3px;
+width:50px;
+padding: 20px 20px 20px 20px;
+}
+#topTitle {
+margin: 0px 0px 0px 777px;
+width: 250px;
+padding:10px 20px 10px 20px
+}
+#firstSocial {
+
+}
