@@ -5,7 +5,7 @@ background-size: cover;
 background-position: right;
 font-weight: bold;
 font-family: Helvetica;
-text-color: rgb(239,236,229);
+color: rgb(239,236,229);
 text-align: center;
 }
 h1 {
@@ -25,19 +25,30 @@ color: rgb(225,177,86);
 .art {
 height: 420px;
 border:solid gold 1px;
-border-radius:10px
+border-radius:10px;
 }
 .social {
 background-color: rgba(0, 0, 0, 0.7);
 border-radius: 3px;
 width:50px;
 padding: 20px 20px 20px 20px;
+margin: -60px 0px 10px 0px;
 }
 #topTitle {
 margin: 0px 0px 0px 777px;
 width: 250px;
-padding:10px 20px 10px 20px
+padding:10px 20px 10px 20px;
 }
 #firstSocial {
-
+margin-left: 735px;
+}
+#gif {
+  margin-left: 300px;
+  float:inline-end;
+  margin: -70px 500px 0px 0px;
+}
+#logo {
+  float:inline-start;
+  margin: -30px 0px 0px 500px;
+  height: 170px;
 }
